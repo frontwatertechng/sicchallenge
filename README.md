@@ -12,7 +12,7 @@
 
 # ISSA is capable of answering concerns regarding opening an account, redemption requests, risk and return questions, minimum tenor, initial investment, SIAML account numbers, SIAML contact information, SIAML mutual funds definitions and functions and others.
 
-# Also view the report below as it contains other aspects of the solution.
+# Please view the report below as it contains other aspects of the solution. A complete and better version of the report with graphical visualizations will be provided upon request.
 
 
 STANBIC IBTC INNOVATION CHALLENGE
