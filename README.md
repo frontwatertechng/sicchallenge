@@ -97,13 +97,13 @@ Figure 3.	The Sharpe Ratio of the 8 SIAML Mutual Funds in 2016.
 We are of the opinion that more conscious effort needs to be put into this space. Potential investors may have extra money saved up somewhere but do not know how to invest it. Even when people are thinking of getting into investing, many still need to be convinced and reminded of the benefits they are potentially missing out on. To this effect, we developed the Five-on-Five Target Marketing Plan. 
 
 This plan entails:
-	Assigning at least 5 top-selling representatives of the Fund manager to visit at least 5 target firms a day each (50 visits a week for 10 representatives) where potential investors may be.
+Assigning at least 5 top-selling representatives of the Fund manager to visit at least 5 target firms a day each (50 visits a week for 10 representatives) where potential investors may be.
 	
-	Committing at least 5 other representatives to dedicating the hours of 9:00 AM to 11:00 AM and 1:00 PM to 4:00 PM (5 hours total) to cold calling and emailing potential investors and leads gotten from all SIAML channels and sources.
+Committing at least 5 other representatives to dedicating the hours of 9:00 AM to 11:00 AM and 1:00 PM to 4:00 PM (5 hours total) to cold calling and emailing potential investors and leads gotten from all SIAML channels and sources.
 	
-	These representatives are to acquire and possibly convert at least 5 leads a week from targeting high net-worth and business individuals in certain places such as airports, hotels, and fancy restaurants, targeting groups such as residential estate associations in the urban areas of Ikoyi, Victoria Island, and Lekki axis (a good number of residential estate associations have meetings on the last Saturday of the month), and also institutions such as churches.
+These representatives are to acquire and possibly convert at least 5 leads a week from targeting high net-worth and business individuals in certain places such as airports, hotels, and fancy restaurants, targeting groups such as residential estate associations in the urban areas of Ikoyi, Victoria Island, and Lekki axis (a good number of residential estate associations have meetings on the last Saturday of the month), and also institutions such as churches.
 	
-	Hosting at least 5 social and awareness events a year where potential customers get to connect with the company and more importantly with successful existing investors who can share their success stories and experience.
+Hosting at least 5 social and awareness events a year where potential customers get to connect with the company and more importantly with successful existing investors who can share their success stories and experience.
 
 	CONCLUSION
 This report set out to present solutions to the problem of efficiently utilizing powerful data analytics to solve the problem of customer engagement and acquisition for SIAML. To achieve this, we at FDV Nig. Ltd. broke down the challenge into 3 categories and we are ready to further implement each of them to improve SIAML operations and its customers’ experience. The 3 solution categories focuses on using analytics, statistical capability and artificial intelligence to improve upon:
