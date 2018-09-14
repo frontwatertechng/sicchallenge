@@ -1,7 +1,7 @@
 # sicchallenge
-# ISSA # intelligent machine learning chat bot
+# ISSA # Intelligent SIAML Service Agent
 
-# To get access to test ISSA and her capabilities please copy and paste this link in your browser or click https://portal.azure.com
+# ISSA is an intelligent machine learning chat bot. To get access to test ISSA and her capabilities please copy and paste this link in your browser or click https://portal.azure.com
 
 # After that enter the following login details:
 #Email Address: osasighodalo@outlook.com
