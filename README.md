@@ -81,7 +81,7 @@ In the analysis conducted for the year 2016, the Stanbic IBTC Money Market Fund 
 
 The portfolio’s volatility is observed from the standard deviation. High standard deviation equals high risk of the particular investment fund. Our analysis shows that in the year 2016 the mutual funds with the lowest risk profile were Stanbic IBTC Bond Fund, Stanbic IBTC Guaranteed Investment Fund, and Stanbic IBTC Imaan Fund with standard deviations of 2.33%, 2.79%, and 2.83% respectively. Those with the most volatility were Stanbic IBTC Nigerian Equity Fund, and Stanbic IBTC ETF 30 with 6.89% and 6.77% respectively.
 
-Therefore, although the Stanbic IBTC Money Market Fund provided the best average yield for the year, it was more volatile than some of the other low performing funds with a standard deviation of 4.07%, hence more risky. . We believe this kind of insight derived from high level statistical and analytical capabilities supports the Fund manager to improve its trading strategy employed in Nigeria’s various financial markets moving forward thus improving leverage to reinvest, and providing more dividends to unit-holders.
+Therefore, although the Stanbic IBTC Money Market Fund provided the best average yield for the year, it was more volatile than some of the other low performing funds with a standard deviation of 4.07%, hence more risky. We believe this kind of insight derived from high level statistical and analytical capabilities supports the Fund manager to improve its trading strategy employed in Nigeria’s various financial markets moving forward thus improving leverage to reinvest, and providing more dividends to unit-holders.
 
 The graph below is a representation of the volatility of the individual funds under review:
   
