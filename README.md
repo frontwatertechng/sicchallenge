@@ -1,5 +1,5 @@
 # sicchallenge
-# ISSA # intelligent machine learning bot
+# ISSA # Intelligent SIAML Service Agent
 
 # To get access to test ISSA and her capabilities please copy and paste this link in your browser https://portal.azure.com
 
@@ -12,4 +12,4 @@
 
 # ISSA is capable of answering concerns regarding opening an account, redemption requests, risk and return questions, minimum tenor, initial investment, SIAML account numbers, SIAML contact information, SIAML mutual funds definitions and functions and others.
 
-# Also, download and view the report as it contains other parts of the solution.
+# Also, download and view the report as it contains other parts of the solution. A complete version of the report with graphical visualizations can be provided upon request.
